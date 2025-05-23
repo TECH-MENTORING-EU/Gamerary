@@ -1,2 +1,2 @@
 # Gamerary
-a personalized game librart
+a personalized game library
